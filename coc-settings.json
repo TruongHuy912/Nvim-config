@@ -1,0 +1,63 @@
+{
+"explorer.width": 30,
+"explorer.file.showHiddenFiles": true,
+"explorer.file.reveal.autọ": false,
+"explorer.icon.enableNerdfont": true,
+"explorer.previewAction.onHover": false,
+"suggest.enablePreselect": true,
+"suggest.noselect": false,
+"suggest.snippetIndicator": " °",
+"suggest.triggerAfterInsertEnter": true,
+"suggest.autoTrigger": "always",
+"suggest.floatEnable": false,
+"suggest.removeDuplicateItems": true,
+"colors.filetypes": ["*"],
+"coc.prefrences.colorSupport": false,
+"coc.preferences.formatOnSaveFiletypes": [
+        "html",
+        "css",
+        "javascript",
+        "csharp"
+],
+"callHierarchy.splitCommand": "call BreakHabitsWindow()",
+
+"diagnostic.errorSign": "",
+"diagnostic.warningSign": "",
+"diagnostic.infoSign": "¶",
+"diagnostic.virtualText": true,
+
+"html-css-support.styleSheets": [
+        "css/style.css",
+        "style.css"
+],
+
+"snippets.ultisnips.enable": false,
+"snippets.ultisnips.usePythonx": false,
+"suggest.completionItemKindLabels": {
+   "method": "  ",
+   "function": "  ",
+   "variable": "[]",
+   "field": " ﰠ ",
+   "typeParameter": "<>",
+   "constant": "  ",
+   "class": " ﴯ ",
+   "interface": "  ",
+   "struct": "  ",
+   "event": "  ",
+   "operator": "  ",
+   "module": "  ",
+   "property": "  ",
+   "enum": "  ",
+   "reference": "  ",
+   "keyword": "  ",
+   "file": "  ",
+   "folder": " ﱮ ",
+   "color": "  ",
+   "unit": " 塞 ",
+   "snippet": "  ",
+   "text": "  ",
+   "constructor": "  ",
+   "value": "  ",
+   "enumMember": "  " 
+ }
+}
